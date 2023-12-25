@@ -25,6 +25,10 @@ Import pandas as pd.
 <br>
  Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm3.
 
+## Step 6
+Print the predicted output.
+<br>
+
 ## Program:
 ```
 import pandas as pd
